@@ -1,0 +1,15 @@
+FIRST DAY JOB GAME
+
+It is your first day at work in order to succed you need to solve 3 tasks.
+
+You need to solve in order Task1  Task2 Task3.
+you need to go throug the rooms in your building and find your task.
+You start with office room and get task from project manager.
+
+When you solve all 3 tasks you will win GAME and  be succesfull in your job.
+
+
+
+
+
+
