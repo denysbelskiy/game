@@ -1,2 +1,2 @@
 Anna Forgot her passwort. 
-Search the file and find her password. I contains word "anna".
+Search the file and find her password. I contains word "anna". You should give the password to final script (in parrent directory.)
