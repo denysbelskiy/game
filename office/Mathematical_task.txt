@@ -1,4 +1,4 @@
 How many 9 are between 1 and 100?
-If you know the answer you can move to next task.
-The result of this task is the number that is the name of the folder where you fnd next task.
+If you know the answer you can move to the next task.
+The result of this task is the number of the folder in the room 1 where you will find the next task.
 
